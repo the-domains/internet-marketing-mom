@@ -1,0 +1,24 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The Internet Marketing Mom
+layout_spectrum: 0.7486083146650344
+typography_spectrum: 0.41072788392193615
+color:
+  brandStrength: 0.5024312401656061
+  lightness: 0.8564432950224727
+  saturation: 0.5720862264279276
+  rhythmicContrast: 0.8834466584958136
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+content: []
+url: 'http://internetmarketing.mom'
+github: true
