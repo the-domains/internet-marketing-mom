@@ -19,6 +19,31 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77549d3-b241-46e2-b6b4-bad84f40503e.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77549d3-b241-46e2-b6b4-bad84f40503e.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 url: 'http://internetmarketing.mom'
 github: true
