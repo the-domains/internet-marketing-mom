@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   It’s been often said that “necessity is the mother of all inventions”. Which
   is true.
-dateModified: '2018-03-11T20:50:05.220Z'
-datePublished: '2018-03-11T20:50:06.044Z'
+dateModified: '2018-03-11T21:04:35.576Z'
+datePublished: '2018-03-11T21:04:36.256Z'
 title: 7 Reasons Why A Mom Can Succeed Working From Home
 author: []
 publisher: {}
@@ -12,7 +12,9 @@ via: {}
 sourcePath: _posts/2018-03-11-7-reasons-why-a-mom-can-succeed-working-from-home.md
 starred: false
 datePublishedOriginal: '2018-03-11T20:23:31.814Z'
-_type: Blurb
+hasPage: true
+url: 7-reasons-why-a-mom-can-succeed-working-from-home/index.html
+_type: Article
 
 ---
 # **7 Reasons Why A Mom Can Succeed Working From Home**
@@ -69,5 +71,6 @@ Being a work-from-home mom may be a long-lasting desire and dream that wants to 
 Present day advancements in technology and globalization will make this striving desire easier, joyful and challenging. Internet is a vast highway that will allow you to connect with more people, and more opportunitiesthan just being realizing other peoples' dreams working for a company at an office.
 
 _Notes: Images courtesy of picjumbo.com_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7adc8596-23ae-42cb-afd6-94cd8ee430ac.jpg)
 
 [0]: http://reports.weforum.org/global-gender-gap-report-2017/ "Global Gender Gap Report 2017"
