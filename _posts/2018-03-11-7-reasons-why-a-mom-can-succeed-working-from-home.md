@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   It’s been often said that “necessity is the mother of all inventions”. Which
   is true.
-dateModified: '2018-03-11T22:10:58.631Z'
-datePublished: '2018-03-11T22:10:59.596Z'
+dateModified: '2018-03-11T22:13:33.395Z'
+datePublished: '2018-03-11T22:13:34.223Z'
 title: 7 Reasons Why To Become A Work-From-Home Mom
 author: []
 publisher: {}
