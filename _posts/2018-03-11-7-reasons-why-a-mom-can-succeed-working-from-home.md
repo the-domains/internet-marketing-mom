@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   It’s been often said that “necessity is the mother of all inventions”. Which
   is true.
-dateModified: '2018-03-12T02:38:06.677Z'
-datePublished: '2018-03-12T02:38:07.619Z'
+dateModified: '2018-03-12T02:41:55.655Z'
+datePublished: '2018-03-12T02:41:56.525Z'
 title: 7 Reasons Why To Become A Work-From-Home Mom
 author: []
 publisher: {}
@@ -81,4 +81,4 @@ _As you may understand, we are a website that needs compensation to operate like
 _Notes: Images courtesy of picjumbo.com_
 
 [0]: http://reports.weforum.org/global-gender-gap-report-2017/ "Global Gender Gap Report 2017"
-[1]: http://bit.ly/2HmCo2L "Become A Work From Home Mom"
+[1]: http://bit.ly/theinternetmarketingmom "Make Money From Home"
