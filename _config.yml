@@ -26,29 +26,5 @@ navigation:
     id: 43e22acf-a04c-4fee-92d4-1dd3740c0ed1
     type: content
 title: ''
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77549d3-b241-46e2-b6b4-bad84f40503e.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77549d3-b241-46e2-b6b4-bad84f40503e.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'A Motivational, Practical Site For Hard-Working Moms'
