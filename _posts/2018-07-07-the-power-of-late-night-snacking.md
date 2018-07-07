@@ -4,21 +4,21 @@ description: >-
   You’re staring at your computer screen with weary eyes. Dinner has come and
   gone, but that oh-so-familiar beast we call Hunger has reeled its damn head
   again.
-dateModified: '2018-07-07T16:43:49.087Z'
-datePublished: '2018-07-07T16:43:50.237Z'
+dateModified: '2018-07-07T16:47:03.862Z'
+datePublished: '2018-07-07T16:47:05.186Z'
 title: THE POWER OF LATE-NIGHT SNACKING
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-07-the-power-of-late-night-snacking.md
 starred: false
 datePublishedOriginal: '2018-07-07T16:43:50.237Z'
-sourcePath: _posts/2018-07-07-the-power-of-late-night-snacking.md
 _type: Blurb
 
 ---
 # THE POWER OF LATE-NIGHT SNACKING
 
-## LIZ SWANN MILLER | OCTOBER 31, 2017
+## LIZ SWANN MILLER FOR THE INTERNET MARKETING MOM| OCTOBER 31, 2017
 
 You're staring at your computer screen with weary eyes. Dinner has come and gone, but that oh-so-familiar beast we call Hunger has reeled its damn head again.
 
